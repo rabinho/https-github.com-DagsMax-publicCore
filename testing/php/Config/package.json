@@ -1,0 +1,13 @@
+{
+  "name": "Config",
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "CONFIGDB":{
+    "SERVERNAME": "",
+    "USER": "",
+    "PASSWORD": "",
+    "DBNAME": ""
+  }
+}
